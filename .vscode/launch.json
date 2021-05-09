@@ -8,7 +8,7 @@
             "name": "gcc.exe - Build and debug active file",
             "type": "cppdbg",
             "request": "launch",
-            "program": "${workspaceFolder}\\usb_relay_cmdline.exe",
+            "program": "${workspaceFolder}\\usb_hid_relay.exe",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",

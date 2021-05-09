@@ -6,11 +6,11 @@
             "command": "C:\\TDM-GCC-32\\bin\\gcc.exe",
             "args": [
                 "-g3",
-                "usb_relay_cmdline.c",
+                "usb_hid_relay.c",
                 "argparse.c",
                 "usb_relay_device.dll",
                 "-o",
-                "usb_relay_cmdline"
+                "usb_hid_relay"
             ],
             "options": {
                 "cwd": "${workspaceFolder}"
